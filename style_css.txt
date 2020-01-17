@@ -1,0 +1,75 @@
+<style>
+
+#notebook-container {
+    padding: 15px;
+    background-color: #CBE1DA;
+    min-height: 0;
+    -webkit-box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.3);
+    box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 0);
+}
+.notebook_app {
+    background-color: white;
+}
+#header{
+background-color: yellow;
+}
+#notebook_name.filename{
+color:DarkRed;
+font-size:200%;
+}
+body #header{
+background-color:white;
+}
+
+.s_titre
+{
+color:white;
+background-color:#F0573B;
+font-size:200%;
+font-family:Arial;
+border-left: 20px solid orange;
+margin-left: 0px;
+}
+
+h1{
+  color:white;
+  font-family:Comic Sans MS;
+  font-size:10em;
+  background-color:#F0573B;
+  text-align:center;
+  padding:10px
+}
+
+#section{
+  color:white;
+  background-color:#F0573B;
+  font-size:200%;
+  font-family:Arial;
+  border-left: 30px solid orange;  
+  margin-left: -10px;
+  padding:10px
+}
+
+#barrev{
+  color:white;
+  background-color:#5EB766;
+  font-size:100%;
+  font-family:Arial;
+  border-left: 3px solid #368414;  
+  margin-left: 10px}
+
+#barrer{
+  background-color:#F9ECF7;
+  border-left: 2px solid #B63369;  
+  margin-left: 20px;
+  color : #A55343
+}
+#barre{
+  background-color:#BAD5E2;
+  border-left: 2px solid #005C89;  
+  margin-left: 20px;
+  color : black
+}
+
+
+</style>
