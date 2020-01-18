@@ -4,7 +4,6 @@ pandas
 fiona 
 shapely 
 pyproj 
-rtree
 seaborn
 matplotlib
 descartes
